@@ -4,7 +4,7 @@
   "hash": "b6528986d0448b56d9282fe3bc0e678e"},
   "lbm_app": {
     "version": "2.03.02",
-    "url": "https://api.github.com/repos/bemiki2022/MySWSD004/contents/apps/tracker_application/bin/racker_application_autonomous.bin",
+    "url": "https://api.github.com/repos/bemiki2022/MySWSD004/apps/tracker_application/bin/racker_application_autonomous.bin",
     "hash": "341b9258aee6eeccd1d0aff695c29aae"},
   "lr1110_fa_transceiver": {
     "version": "04.01",
